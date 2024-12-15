@@ -1,6 +1,33 @@
+<h1 align="center">Ceej Mangulabnan</h1>
+
+###
+
+<h6 align="center">"Keep leveling up"</h6>
+
+###
+
+<h5 align="left">Hi, I'm Ceej—a 2nd-year Computer Science student fueled by curiosity and drive. Constantly learning, growing, and preparing for new opportunities to take my skills to the next level.</h5>
+
+###
+
+<h2 align="left">Reach Out to Me:</h2>
+
+###
+
+<div align="center">
+  <a href="cheljee.mangulabnan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cheljee-mangulabnan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <br clear="both">
 
-<h2 align="left"></h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
@@ -36,22 +63,13 @@
 
 ###
 
-<div align="left">
-  <a href="cheljee.mangulabnan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cheljee-mangulabnan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<img align="right" height="150" src="https://media1.tenor.com/m/DTFWkey880EAAAAC/breakdance-cat-%D0%B6%D0%BE%D1%81%D0%BA%D0%B8%D0%B9-%D1%84%D0%BB%D0%B5%D0%BA%D1%81.gif"  />
+
+
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceejmangulabnan&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ceejmangulabnan" /></p>
 
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/DTFWkey880EAAAAC/breakdance-cat-%D0%B6%D0%BE%D1%81%D0%BA%D0%B8%D0%B9-%D1%84%D0%BB%D0%B5%D0%BA%D1%81.gif"  />
-</div>
-
-###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceejmangulabnan&show_icons=true&locale=en" alt="ceejmangulabnan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceejmangulabnan&" alt="ceejmangulabnan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceejmangulabnan&show_icons=true&theme=onedark&locale=en" alt="ceejmangulabnan" /></p>
