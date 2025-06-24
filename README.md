@@ -2,15 +2,15 @@
 
 ###
 
-<h6 align="center">"Keep leveling up"</h6>
+<h6 align="center">"Full-stack Web Developer"</h6>
 
 ###
 
-<h5 align="left">Hi, I'm Ceej—a 2nd-year Computer Science student fueled by curiosity and drive. Constantly learning, growing, and preparing for new opportunities to take my skills to the next level.</h5>
+<h5 align="left">Hi, I'm Ceej—a full-stack web developer specializing in NextJS / ReactJS. Constantly learning and exploring stuff that excites me! ;D</h5>
 
 ###
 
-<h2 align="left">Reach Out to Me:</h2>
+<h2 align="left">Let's Connect:</h2>
 
 ###
 
